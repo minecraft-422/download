@@ -1,2 +1,6 @@
 # Minecraft Error 422 Download
-[!Download](https://gist.github.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/SERVICE.svg)(https://example.com/...)
+<a href="https://example.com">
+  <button style="padding:10px 20px; background-color:#28a745; color:white; border:none; border-radius:5px;">
+    Click Me
+  </button>
+</a>
